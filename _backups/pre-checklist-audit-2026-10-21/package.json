@@ -1,0 +1,8 @@
+{
+  "name": "vitanatura-orderflow",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Persistent D2C order follow-up automation prototype",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
